@@ -196,9 +196,9 @@ def generateSequences(i, j, seq1, seq2, ans1, ans2):
 # %%
 # initializing the 0th row and 0th column in DP matrix for global Alignment
 for i in range(rows):
-    dpMatrix[i][0] = -1 * i
+    dpMatrix[i][0] = gapPenalty * i
 for j in range(cols):
-    dpMatrix[0][j] = -1 * j
+    dpMatrix[0][j] = gapPenalty * j
 
 
 # %%
@@ -272,9 +272,9 @@ gapPenalty = -2
 # %%
 # initializing dp matrix for global alignment
 for i in range(rows):
-    dpMatrix[i][0] = -1 * i
+    dpMatrix[i][0] = gapPenalty * i
 for j in range(cols):
-    dpMatrix[0][j] = -1 * j
+    dpMatrix[0][j] = gapPenalty * j
 globalAlignment(rows, cols, dnaSeq1, dnaSeq2)
 
 # %% [markdown]
