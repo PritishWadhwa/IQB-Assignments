@@ -16,6 +16,7 @@ f6' = CCCGCGGCTTCAACGGATCTGTG
 f7' = TACTTAACTCGAG
 f8' = AAGTACTGCCCGCG
 
+Length 50:
 
 f2':    CCTCGAGTTAA
 f7 :     CTCGAGTTAAGTA
@@ -26,6 +27,7 @@ f6':                     CCCGCGGCTTCAACGGATCTGTG
 f4 :                                     ATCTGTGTCGGG
 f5':                                        TGTGTCGGGAGTCG
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        CCTCGAGTTAAGTACTGCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCG
 
 
 f5 :    CGACTCCCGACACA
@@ -37,7 +39,10 @@ f3':                                 CGGGCAGTACTTAA
 f7':                                        TACTTAACTCGAG
 f2 :                                           TTAACTCGAGG
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        CGACTCCCGACACAGATCCGTTGAAGCCGCGGGCAGTACTTAACTCGAGG
 
+
+Length 55:
 
 f1':    GCCCGCGGCTTCAACGGAT
 f6':     CCCGCGGCTTCAACGGATCTGTG
@@ -48,6 +53,7 @@ f3':                                      CGGGCAGTACTTAA
 f7':                                             TACTTAACTCGAG
 f2 :                                                TTAACTCGAGG
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        GCCCGCGGCTTCAACGGATCTGTGTCGGGAGTCGCGGGCAGTACTTAACTCGAGG
 
 
 f2':    CCTCGAGTTAA
@@ -59,3 +65,4 @@ f4':                              CCCGACACAGAT
 f6 :                                   CACAGATCCGTTGAAGCCGCGGG
 f1 :                                        ATCCGTTGAAGCCGCGGGC
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        CCTCGAGTTAAGTACTGCCCGCGACTCCCGACACAGATCCGTTGAAGCCGCGGGC
