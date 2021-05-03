@@ -1,0 +1,61 @@
+f1  = ATCCGTTGAAGCCGCGGGC
+f2  = TTAACTCGAGG
+f3  = TTAAGTACTGCCCG
+f4  = ATCTGTGTCGGG
+f5  = CGACTCCCGACACA
+f6  = CACAGATCCGTTGAAGCCGCGGG
+f7  = CTCGAGTTAAGTA
+f8  = CGCGGGCAGTACTT
+
+f1' = GCCCGCGGCTTCAACGGAT
+f2' = CCTCGAGTTAA
+f3' = CGGGCAGTACTTAA
+f4' = CCCGACACAGAT
+f5' = TGTGTCGGGAGTCG
+f6' = CCCGCGGCTTCAACGGATCTGTG
+f7' = TACTTAACTCGAG
+f8' = AAGTACTGCCCGCG
+
+
+f2':    CCTCGAGTTAA
+f7 :     CTCGAGTTAAGTA
+f3 :           TTAAGTACTGCCCG 
+f8':             AAGTACTGCCCGCG
+f1':                    GCCCGCGGCTTCAACGGAT
+f6':                     CCCGCGGCTTCAACGGATCTGTG
+f4 :                                     ATCTGTGTCGGG
+f5':                                        TGTGTCGGGAGTCG
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+f5 :    CGACTCCCGACACA
+f4':         CCCGACACAGAT
+f6 :              CACAGATCCGTTGAAGCCGCGGG
+f1 :                   ATCCGTTGAAGCCGCGGGC
+f8 :                               CGCGGGCAGTACTT
+f3':                                 CGGGCAGTACTTAA
+f7':                                        TACTTAACTCGAG
+f2 :                                           TTAACTCGAGG
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+f1':    GCCCGCGGCTTCAACGGAT
+f6':     CCCGCGGCTTCAACGGATCTGTG
+f4 :                     ATCTGTGTCGGG
+f5':                        TGTGTCGGGAGTCG
+f8 :                                    CGCGGGCAGTACTT
+f3':                                      CGGGCAGTACTTAA
+f7':                                             TACTTAACTCGAG
+f2 :                                                TTAACTCGAGG
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+f2':    CCTCGAGTTAA
+f7 :     CTCGAGTTAAGTA
+f3 :           TTAAGTACTGCCCG 
+f8':             AAGTACTGCCCGCG
+f5 :                         CGACTCCCGACACA
+f4':                              CCCGACACAGAT
+f6 :                                   CACAGATCCGTTGAAGCCGCGGG
+f1 :                                        ATCCGTTGAAGCCGCGGGC
+        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
